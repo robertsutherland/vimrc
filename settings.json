@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "Vim Dark Hard",
+    "vim.insertModeKeyBindings": [
+        {
+            "before": [
+                "k",
+                "j"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        }
+    ],
+    "editor.fontSize": 16,
+    "editor.lineNumbers": "relative",
+    "editor.cursorBlinking": "solid",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "python.autoComplete.extraPaths": [],
+    "editor.inlineSuggest.enabled": true,
+    "workbench.sideBar.location": "right"
+}
